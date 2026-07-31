@@ -63,7 +63,11 @@ Build and run the application on a compatible iPad.
 
 ## Citation
 
-If you use ArchSpiral in your research, please cite the associated publication once available. Citation information and DOI will be added following publication.
+If you use ArchSpiral in your research, please cite the associated publication:
+
+ArchSpiral: An iPad-Based Digital Archimedean Spiral Assessment for Objective Motor Evaluation in Rare Diseases
+Daniel R Schecter, Rory J Tinker, Matteo Danieletto, Georgia MacDonald, Tamas Kozicz, Eva Morava, Benjamin S Glicksberg
+medRxiv 2026.07.27.26358872; doi: https://doi.org/10.64898/2026.07.27.26358872
 
 ## Contact
 
